@@ -1,4 +1,4 @@
-# 🚀 ZCODER – MERN Stack Project
+# 🚀 ZCODER 
 
 ZCODER is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to interact with a coding platform interface and can be extended for features like coding contests, submission evaluations, or learning modules.
 
