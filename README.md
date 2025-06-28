@@ -12,3 +12,4 @@ After cloning the repository using `git clone https://github.com/kritagya-2023/Z
 ## 👤 Author
 [Kritagya Tripathi](https://github.com/kritagya-2023)
 [Vibhor](https://github.com/VIBh0r)
+[Aaditya](https://github.com/aaditya-shriwastav)
