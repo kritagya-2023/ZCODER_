@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = "mongodb+srv://dhruvgenie21:dada%4021ZCODER@zcoder-cluster.ex3sqrf.mongodb.net/?retryWrites=true&w=majority&appName=Zcoder-cluster"
+const url = "mongodb://localhost:27017/zcoder"
 
 module.exports.connect = () => {
     mongoose.connect(url).then((res) => {
